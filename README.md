@@ -12,7 +12,7 @@ My journey in information systems and eagerness to protect others has led me to 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| pfsense Firewall Configuration                | <a href="https://google.com">Detection Lab</a>|
+| Subnetting & Firewall Configuration           | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Caldera              | SOC Automation Lab|
 | Docker Containerization & Docker Compose      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
