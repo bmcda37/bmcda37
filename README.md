@@ -1,11 +1,11 @@
 # Hello, I'm Ben McDaniel
 <a href="https://www.linkedin.com/in/ben-mcdaniel-36759b21b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate from the University of Georgia, with a degree in Information Systems and Emphasis in Cybersecurity. I have with a profound interest in technology and a dedication to solving complex problems.
+I am a graduate of the University of Georgia, with a degree in Information Systems and Emphasis in Cybersecurity. I am passionate about learning different technologies as I use them to analyze security-related events.
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in information systems and eagerness to protect others has led me to develop a passion for cybersecurity. I plan to use the skills developed in undergrad, along with my professional work experience, to continue growing my competencies within Digital Forensics, Threat Hunting, Vulnerability & Patch Management, Programming, and Networking to become a well-rounded cybersecurity professional.
 
 ## Skills
 
