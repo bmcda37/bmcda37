@@ -20,7 +20,6 @@ My journey in information systems and eagerness to protect others has led me to 
 
 ## Tools
 
-### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
@@ -35,5 +34,6 @@ My journey in information systems and eagerness to protect others has led me to 
 
 ## Projects
 - SIEM Lab
-- Automation Project Using Bash
-- Digital Forensics with Hack the Box Academy
+- Automation Project Using Bash **In-Progress
+- Digital Forensics with Hack the Box Academy **In-Progress
+- Reverse Engineering with Ghidra **In-Progress
