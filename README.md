@@ -5,7 +5,7 @@ I am a graduate of the University of Georgia, with a degree in Information Syste
 
 ## Objective
 
-My journey in information systems and eagerness to protect others has led me to develop a passion for cybersecurity. I plan to use the skills developed in undergrad, along with my professional work experience, to continue growing my competencies within Digital Forensics, Threat Hunting, Vulnerability & Patch Management, Programming, and Networking to become a well-rounded cybersecurity professional.
+My journey in information systems and eagerness to protect others has led me to develop a passion for cybersecurity. I plan to use the skills developed in undergrad, along with my professional work experience, to continue growing my competencies within Digital Forensics, Threat Hunting, Vulnerability & Patch Management, Programming, and Networking to become a well-rounded cybersecurity professional. I plan to showcase any skills I learn within my Github page demonstrating my eagerness for continual learning in this field.
 
 ## Skills
 
