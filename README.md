@@ -11,12 +11,12 @@ My journey in information systems and eagerness to protect others has led me to 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Subnetting & Firewall Configuration           | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Caldera              | SOC Automation Lab|
-| Docker Containerization & Docker Compose      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis           |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
+| Subnetting & Firewall Configuration            |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
+| Security Automation with Caldera               |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
+| Docker Containerization & Docker Compose       |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
+| Case Management with TheHive                   |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
+| Scripting and Automation for Threat Mitigation |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
 
 ## Tools
 
