@@ -16,7 +16,7 @@ My journey in information systems and eagerness to protect others has led me to 
 | Security Automation with Caldera               |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
 | Docker Containerization & Docker Compose       |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
 | Case Management with TheHive                   |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
-| Scripting and Automation for Threat Mitigation |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
+| Scripting and Automation                       |<a href="">Bash Scripting</a>|
 
 ## Tools
 
@@ -34,6 +34,6 @@ My journey in information systems and eagerness to protect others has led me to 
 
 ## Projects
 - SIEM Lab
-- Automation Project Using Bash **In-Progress
-- Digital Forensics with Hack the Box Academy **In-Progress
+- Automation Project Using Bash 
+- Digital Forensics with Velociraptor **In-Progress
 - Reverse Engineering with Ghidra **In-Progress
