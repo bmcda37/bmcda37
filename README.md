@@ -16,7 +16,7 @@ My journey in information systems and eagerness to protect others has led me to 
 | Security Automation with Caldera               |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
 | Docker Containerization & Docker Compose       |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
 | Case Management with TheHive                   |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
-| Scripting and Automation                       |<a href="">Bash Scripting</a>|
+| Scripting and Automation                       |<a href="https://github.com/bmcda37/BashScripting.git">Bash Scripting</a>|
 
 ## Tools
 
