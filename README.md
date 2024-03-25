@@ -15,9 +15,10 @@ My journey in information systems and eagerness to protect others has led me to 
 | Subnetting & Firewall Configuration            |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
 | Security Automation with Caldera               |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
 | Docker Containerization & Docker Compose       |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
-| Case Management with TheHive                   |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
 | Scripting and Automation                       |<a href="https://github.com/bmcda37/BashScripting.git">Bash Scripting</a>|
+| Linux File System                              |<a href="https://github.com/bmcda37/BashScripting.git">Bash Scripting</a>|
 
+<!---
 ## Tools
 
 <div>
@@ -31,6 +32,7 @@ My journey in information systems and eagerness to protect others has led me to 
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+--->
 
 ## Projects
 - SIEM Lab
