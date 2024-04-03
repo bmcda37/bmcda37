@@ -37,5 +37,5 @@ My journey in information systems and eagerness to protect others has led me to 
 ## Projects
 - SIEM Lab
 - Automation Project Using Bash 
-- Digital Forensics with Velociraptor **In-Progress
-- Reverse Engineering with Ghidra **In-Progress
+- Exploring The Sleuth Kit (TSK) & Digital Forensics  **In-Progress
+- Reverse Engineering with Ghidra **Upcoming
