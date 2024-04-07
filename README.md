@@ -37,6 +37,6 @@ My journey in information systems and eagerness to protect others has led me to 
 ## Projects
 - SIEM Lab
 - Automation Project Using Bash
-- Hack The Box Sherlock Practice (Digital Forensics & IDR Labs) **Ongoing
+- Hack The Box Sherlock Practice (Digital Forensics & Incident Response Labs) **Ongoing
 - Exploring The Sleuth Kit (TSK) & Digital Forensics  **In-Progress
 - Reverse Engineering with Ghidra **Upcoming
