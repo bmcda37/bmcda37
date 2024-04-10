@@ -1,7 +1,7 @@
 # Hello, I'm Ben McDaniel
 <a href="https://www.linkedin.com/in/ben-mcdaniel-36759b21b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a graduate of the University of Georgia, with a degree in Information Systems and Emphasis in Cybersecurity. I am passionate about learning different technologies as I use them to analyze security-related events.
+I hold a Bachelor's degree in Information Systems with a concentration in Cybersecurity from the University of Georgia. Currently, I'm working towards a Master's degree in Cybersecurity at Augusta University, aiming to deepen my comprehension of topics covered in lectures and self-guided labs. My objective is to investigate innovative methods for leveraging technology to enhance the security of our systems. In my free time, I dedicate myself to expanding my expertise in our field and familiarizing myself with new tools to add to my skill set as I strive toward becoming a versatile cybersecurity professional.
 
 ## Objective
 
