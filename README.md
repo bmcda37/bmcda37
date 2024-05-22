@@ -15,8 +15,8 @@ My journey in information systems and eagerness to protect others has led me to 
 | Network Segmentation & Firewall Configuration            |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
 | Security Automation with Caldera               |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
 | Docker Containerization & Docker Compose       |<a href="https://github.com/bmcda37/IndependentResearch-SIEM">SIEM Lab</a>|
-| Scripting and Automation                       |<a href="https://github.com/bmcda37/BashScripting.git">Bash Scripting</a>|
-| Linux File System                              |<a href="https://github.com/bmcda37/BashScripting.git">Bash Scripting</a>|
+| Bash/Python/Powershell scripting               |<a href="https://github.com/bmcda37/BashScripting.git">Scripting & Automation</a>|
+| Linux File System                              |<a href="https://github.com/bmcda37/BashScripting.git">Scripting & Automation</a>|
 
 <!---
 ## Tools
